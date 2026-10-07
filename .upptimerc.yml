@@ -1,31 +1,31 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+# Code57 status page — https://status.code57.pl
+# Docs: https://upptime.js.org/docs
+
+owner: mat-code57
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: DataJet
+    url: https://datajet.code57.pl/health
+  # TODO: switch the three below to /health once the new endpoints are deployed
+  - name: Gift Card Factory
+    url: https://gcfactory.code57.pl
+  - name: Bundle Factory
+    url: https://bundlefactory.code57.pl
+  - name: BoomGate
+    url: https://boomgate.code57.pl
+  - name: DataJet Documentation
+    url: https://docs.datajet-app.com
+  - name: Code57 Website
+    url: https://code57.pl
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.code57.pl
+  name: Code57 Status
+  introTitle: "**Code57 Status**"
+  introMessage: Live status and historical uptime for our Shopify apps — DataJet, Gift Card Factory, Bundle Factory and BoomGate.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Code57
+      href: https://code57.pl
