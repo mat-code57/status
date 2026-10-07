@@ -7,13 +7,12 @@ repo: status
 sites:
   - name: DataJet
     url: https://datajet.code57.pl/health
-  # TODO: switch the three below to /health once the new endpoints are deployed
   - name: Gift Card Factory
-    url: https://gcfactory.code57.pl
+    url: https://gcfactory.code57.pl/health
   - name: Bundle Factory
-    url: https://bundlefactory.code57.pl
+    url: https://bundlefactory.code57.pl/health
   - name: BoomGate
-    url: https://boomgate.code57.pl
+    url: https://boomgate.code57.pl/health
   - name: DataJet Documentation
     url: https://docs.datajet-app.com
   - name: Code57 Website
