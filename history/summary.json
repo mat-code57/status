@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 546,
     "timeDay": 335,
-    "timeWeek": 728,
+    "timeWeek": 767,
     "timeMonth": 546,
     "timeYear": 546,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 424,
     "timeDay": 192,
-    "timeWeek": 395,
+    "timeWeek": 359,
     "timeMonth": 424,
     "timeYear": 424,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 468,
     "timeDay": 217,
-    "timeWeek": 677,
+    "timeWeek": 739,
     "timeMonth": 468,
     "timeYear": 468,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 389,
     "timeDay": 228,
-    "timeWeek": 468,
+    "timeWeek": 495,
     "timeMonth": 389,
     "timeYear": 389,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 520,
     "timeDay": 539,
-    "timeWeek": 540,
+    "timeWeek": 560,
     "timeMonth": 520,
     "timeYear": 520,
     "dailyMinutesDown": {}
@@ -94,7 +94,7 @@
     "url": "https://code57.pl",
     "icon": "https://icons.duckduckgo.com/ip3/code57.pl.ico",
     "slug": "code57-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 1045,
     "timeDay": 960,
-    "timeWeek": 1351,
+    "timeWeek": 1406,
     "timeMonth": 1045,
     "timeYear": 1045,
     "dailyMinutesDown": {}
